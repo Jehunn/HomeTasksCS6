@@ -1,0 +1,14 @@
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\Dependency Test.exe
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\Dependency Test.deps.json
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\Dependency Test.runtimeconfig.json
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\Dependency Test.runtimeconfig.dev.json
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\Dependency Test.dll
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\Dependency Test.pdb
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.csproj.AssemblyReference.cache
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.AssemblyInfoInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.AssemblyInfo.cs
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.csproj.CoreCompileInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.dll
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.pdb
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\Dependency Test.genruntimeconfig.cache

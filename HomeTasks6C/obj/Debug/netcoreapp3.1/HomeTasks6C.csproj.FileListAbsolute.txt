@@ -1,0 +1,14 @@
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\HomeTasks6C.exe
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\HomeTasks6C.deps.json
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\HomeTasks6C.runtimeconfig.json
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\HomeTasks6C.runtimeconfig.dev.json
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\HomeTasks6C.dll
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\bin\Debug\netcoreapp3.1\HomeTasks6C.pdb
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.csproj.AssemblyReference.cache
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.AssemblyInfoInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.AssemblyInfo.cs
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.csproj.CoreCompileInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.dll
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.pdb
+C:\Users\chabo\source\repos\HomeTasksCS6\HomeTasks6C\obj\Debug\netcoreapp3.1\HomeTasks6C.genruntimeconfig.cache
