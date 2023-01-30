@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HomeTasks6C\Dependency Test.csproj" />
+    <ProjectReference Include="..\HomeTasks6C\HomeTasks6C.csproj" />
   </ItemGroup>
 
 </Project>

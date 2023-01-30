@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Dependency Test/1.0.0": {
+      "HomeTasks6C/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Dependency Test.dll": {}
+          "bin/placeholder/HomeTasks6C.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Dependency Test.dll": {}
+          "bin/placeholder/HomeTasks6C.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Dependency Test/1.0.0": {
+    "HomeTasks6C/1.0.0": {
       "type": "project",
-      "path": "../HomeTasks6C/Dependency Test.csproj",
-      "msbuildProject": "../HomeTasks6C/Dependency Test.csproj"
+      "path": "../HomeTasks6C/HomeTasks6C.csproj",
+      "msbuildProject": "../HomeTasks6C/HomeTasks6C.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Dependency Test >= 1.0.0"
+      "HomeTasks6C >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\chabo\\source\\repos\\HomeTasksCS6\\HomeTasks6C\\Dependency Test.csproj": {
-              "projectPath": "C:\\Users\\chabo\\source\\repos\\HomeTasksCS6\\HomeTasks6C\\Dependency Test.csproj"
+            "C:\\Users\\chabo\\source\\repos\\HomeTasksCS6\\HomeTasks6C\\HomeTasks6C.csproj": {
+              "projectPath": "C:\\Users\\chabo\\source\\repos\\HomeTasksCS6\\HomeTasks6C\\HomeTasks6C.csproj"
             }
           }
         }

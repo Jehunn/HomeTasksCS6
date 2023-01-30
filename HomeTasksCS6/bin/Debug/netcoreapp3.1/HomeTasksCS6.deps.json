@@ -7,13 +7,16 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "HomeTasksCS6/1.0.0": {
+        "dependencies": {
+          "HomeTasks6C": "1.0.0"
+        },
         "runtime": {
           "HomeTasksCS6.dll": {}
         }
       },
-      "Dependency Test/1.0.0": {
+      "HomeTasks6C/1.0.0": {
         "runtime": {
-          "Dependency Test.dll": {}
+          "HomeTasks6C.dll": {}
         }
       }
     }
@@ -24,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Dependency Test/1.0.0": {
+    "HomeTasks6C/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

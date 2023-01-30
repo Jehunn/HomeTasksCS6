@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTasksCS6", "HomeTasksCS6\HomeTasksCS6.csproj", "{9EDED955-C7F2-4611-B142-1C64E377913D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Test", "HomeTasks6C\Dependency Test.csproj", "{738D7734-181F-46F1-AE56-F779DBDA8274}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTasks6C", "HomeTasks6C\HomeTasks6C.csproj", "{738D7734-181F-46F1-AE56-F779DBDA8274}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
